@@ -40,7 +40,5 @@ Unsupervised learning is a term used for Hebbian learning, associated to learnin
         <li>Density-Based Spatial Clustering of Applications with Noise (DBSCAN)</li>
         <li>Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM)</li>
         <li>Agglomerative Hierarchical Clustering</li>
-        <li>Desision Tree Classification</li>
-        <li>Random Forest Classification</li>
        </ol>
 </ul>
