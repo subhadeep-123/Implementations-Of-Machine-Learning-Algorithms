@@ -12,6 +12,10 @@
  <ol>
   <li>Linear Regression</li>
   <li>Multiple Linear Regression</li>
+  <li>Polynomail Regression</li>
+  <li>Support Vector Regression</li>
+  <li>Desision Tree Regression</li>
+  <li>Random Forest Regression</li>
  </ol>
  
 <li><h2>What is unsupervised learning?</h2></li>
