@@ -22,10 +22,11 @@
   <ol>
         <li>Logistic Regression</li>
         <li>K Nearest Neighbours Classification</li>
-        <li>Polynomail Regression</li>
-        <li>Support Vector Regression</li>
-        <li>Desision Tree Regression</li>
-        <li>Random Forest Regression</li>
+        <li>Support Vector Classification</li>
+        <li>Kernel SVM</li>
+        <li>Naive Bayes</li>
+        <li>Desision Tree Classification</li>
+        <li>Random Forest Classification</li>
        </ol>
  
 <li><h2>What is unsupervised learning?</h2></li>
