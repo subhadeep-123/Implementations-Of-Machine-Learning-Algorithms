@@ -11,3 +11,4 @@
  
  
 <li><h2>What is unsupervised learning?</h2></li>
+Unsupervised learning is a term used for Hebbian learning, associated to learning without a teacher, also known as self-organization and a method of modeling the probability density of inputs. The cluster analysis as a branch of machine learning that groups the data that has not been labeled, classified or categorized. Instead of responding to feedback, cluster analysis identifies commonalities in the data and reacts based on the presence or absence of such commonalities in each new piece of data.
