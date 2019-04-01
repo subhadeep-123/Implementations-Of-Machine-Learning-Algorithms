@@ -8,12 +8,13 @@
 <ul>
 <li><h2>What is Supervised learning?</h2></li>
  Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal). A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples.
- Example 1:
+ <p><b>Example 1:</b>
 Given data about the size of houses on the real estate market, try to predict their price. Price as a function of size is a continuous output, so this is a regression problem.
 We could turn this example into a classification problem by instead making our output about whether the house "sells for more or less than the asking price." Here we are classifying the houses based on price into two discrete categories.
-Example 2:
+  </p>
+<p><b>Example 2:</b>
 (a) Regression - Given a picture of a person, we have to predict their age on the basis of the given picture
-(b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
+(b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.</p>
 
  <h3><u>Regression Algorithms</u></h3>
        <ol>
@@ -38,6 +39,9 @@ Example 2:
  
 <li><h2>What is unsupervised learning?</h2></li>
 Unsupervised learning is a term used for Hebbian learning, associated to learning without a teacher, also known as self-organization and a method of modeling the probability density of inputs. The cluster analysis as a branch of machine learning that groups the data that has not been labeled, classified or categorized. Instead of responding to feedback, cluster analysis identifies commonalities in the data and reacts based on the presence or absence of such commonalities in each new piece of data.
+<p><b>Example:</b>
+Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
+Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).</p>
 
 
   <h3><u>Clustering Algorithms</u></h3>
